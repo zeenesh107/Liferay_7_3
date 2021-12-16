@@ -1,0 +1,10 @@
+Bundle-Name: Food-Portal-api
+Bundle-SymbolicName: com.food.portal.api
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.food.portal.exception,\
+	com.food.portal.model,\
+	com.food.portal.service,\
+	com.food.portal.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../Food-Portal-service/service.xml

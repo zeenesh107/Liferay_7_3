@@ -1,0 +1,4 @@
+Bundle-Name: Food-Portal-web
+Bundle-SymbolicName: com.food.portal.web
+Bundle-Version: 1.0.0
+Export-Package: com.food.portal.web.constants
